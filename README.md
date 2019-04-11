@@ -1,2 +1,2 @@
 # javaSample
-Java sample project
+Java demo sample project
